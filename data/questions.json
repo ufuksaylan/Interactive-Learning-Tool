@@ -1,0 +1,173 @@
+[
+  {
+    "type": "quiz",
+    "id": 1,
+    "question_text": "Which planet is closest to the sun?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Mercury",
+      "Venus"
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": 2,
+    "question_text": "What is the largest ocean on Earth?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean"
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": 3,
+    "question_text": "Which gas is most abundant in Earth's atmosphere?",
+    "status": false,
+    "answer_index": 0,
+    "options": [
+      "Nitrogen",
+      "Oxygen"
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": 4,
+    "question_text": "What is the capital city of France?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Paris",
+      "Lyon"
+    ]
+  },
+  {
+    "type": "freeform",
+    "id": 5,
+    "question_text": "What is the name of the world's highest mountain?",
+    "status": true,
+    "answer": "Mount Everest"
+  },
+  {
+    "type": "quiz",
+    "id": 6,
+    "question_text": "Which animal is known as the king of the jungle?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Lion",
+      "Tiger"
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": 7,
+    "question_text": "How many legs does an octopus have?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "8",
+      "6"
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": 8,
+    "question_text": "What is the chemical symbol for water?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "H2O",
+      "CO2"
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": 9,
+    "question_text": "What color do you get when you mix blue and yellow?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Green",
+      "Orange"
+    ]
+  },
+  {
+    "type": "freeform",
+    "id": 10,
+    "question_text": "What is the name of the famous tower in Paris?",
+    "status": true,
+    "answer": "Eiffel Tower"
+  },
+  {
+    "type": "quiz",
+    "id": 11,
+    "question_text": "Which of these animals is a mammal?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Whale",
+      "Shark"
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": 12,
+    "question_text": "What is the largest continent on Earth?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Asia",
+      "Africa"
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": 13,
+    "question_text": "Which of these elements is a noble gas?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Helium",
+      "Hydrogen"
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": 14,
+    "question_text": "Which country is known as the Land of the Rising Sun?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Japan",
+      "China"
+    ]
+  },
+  {
+    "type": "freeform",
+    "id": 15,
+    "question_text": "What is the official language of Brazil?",
+    "status": true,
+    "answer": "Portuguese"
+  },
+  {
+    "type": "quiz",
+    "id": 16,
+    "question_text": "Which planet is known as the Red Planet?",
+    "status": true,
+    "answer_index": 0,
+    "options": [
+      "Mars",
+      "Venus"
+    ]
+  },
+  {
+    "type": "freeform",
+    "id": 17,
+    "question_text": "what is the world's age?",
+    "status": true,
+    "answer": "12billion"
+  }
+]

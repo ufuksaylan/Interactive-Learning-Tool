@@ -1,0 +1,108 @@
+{
+  "id": 1,
+  "name": "ufuk",
+  "questions_stats": [
+    {
+      "id": 1,
+      "times_shown": 11,
+      "correct_answers": 3,
+      "selection_probability": 0.33333333333333337
+    },
+    {
+      "id": 2,
+      "times_shown": 1,
+      "correct_answers": 1,
+      "selection_probability": 1.0
+    },
+    {
+      "id": 3,
+      "times_shown": 1,
+      "correct_answers": 0,
+      "selection_probability": 0.5
+    },
+    {
+      "id": 4,
+      "times_shown": 0,
+      "correct_answers": 0,
+      "selection_probability": 1
+    },
+    {
+      "id": 5,
+      "times_shown": 3,
+      "correct_answers": 0,
+      "selection_probability": 0.25
+    },
+    {
+      "id": 6,
+      "times_shown": 0,
+      "correct_answers": 0,
+      "selection_probability": 1
+    },
+    {
+      "id": 7,
+      "times_shown": 2,
+      "correct_answers": 2,
+      "selection_probability": 1.0
+    },
+    {
+      "id": 8,
+      "times_shown": 0,
+      "correct_answers": 0,
+      "selection_probability": 1
+    },
+    {
+      "id": 9,
+      "times_shown": 0,
+      "correct_answers": 0,
+      "selection_probability": 1
+    },
+    {
+      "id": 10,
+      "times_shown": 1,
+      "correct_answers": 0,
+      "selection_probability": 0.5
+    },
+    {
+      "id": 11,
+      "times_shown": 2,
+      "correct_answers": 1,
+      "selection_probability": 0.6666666666666667
+    },
+    {
+      "id": 12,
+      "times_shown": 0,
+      "correct_answers": 0,
+      "selection_probability": 1
+    },
+    {
+      "id": 13,
+      "times_shown": 1,
+      "correct_answers": 0,
+      "selection_probability": 0.5
+    },
+    {
+      "id": 14,
+      "times_shown": 1,
+      "correct_answers": 1,
+      "selection_probability": 1.0
+    },
+    {
+      "id": 15,
+      "times_shown": 2,
+      "correct_answers": 0,
+      "selection_probability": 0.33333333333333337
+    },
+    {
+      "id": 16,
+      "times_shown": 3,
+      "correct_answers": 2,
+      "selection_probability": 0.75
+    },
+    {
+      "id": 17,
+      "times_shown": 0,
+      "correct_answers": 0,
+      "selection_probability": 1
+    }
+  ]
+}
