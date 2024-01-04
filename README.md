@@ -18,3 +18,11 @@ The Interactive Learning Tool, developed using Object-Oriented Programming (OOP)
 - **File I/O:** For persistent data storage of questions and user profiles.
 - **Regular Expressions:** Utilized in various functionalities for data processing.
 - **Unit Testing:** Ensures reliability and correctness of the application.
+
+## Usage
+
+Run the application:
+
+```sh
+python src/main.py
+```
